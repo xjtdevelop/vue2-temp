@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "donjayamanne.githistory",
+    "octref.vetur",
+    "mhutchie.git-graph",
+  ]
+}
